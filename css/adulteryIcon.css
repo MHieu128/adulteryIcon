@@ -1,0 +1,28 @@
+.btnCus{
+    height:3em;
+    width: auto;
+    margin-top : 2em;
+    margin-bottom : 2em;
+    background-color: #C7CEEA;
+    border-radius: 1em;
+    border-color: white;
+    color: white;
+}
+
+.row{
+    margin-top: 5em;
+    background-color: #C7CEEA;
+    padding: 1em;
+    box-shadow: 0.5em 0.5em 0.5em #C7CEEA;
+    border-radius: 1em;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.form-control{
+    border-radius: 1em;
+}
