@@ -1,5 +1,6 @@
 var encodeFunc = () => {
     let rawTest = $("#rawTest").val();
+    rawTest = rawTest.toLowerCase();
     rawTest = rawTest.replaceAll('a', '😀');
     rawTest = rawTest.replaceAll('b', '😃');
     rawTest = rawTest.replaceAll('c', '😁');
