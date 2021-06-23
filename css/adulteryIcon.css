@@ -1,4 +1,4 @@
-.btnCus{
+button{
     height:3em;
     width: auto;
     margin-top : 2em;
@@ -8,6 +8,8 @@
     border-color: white;
     color: white;
 }
+
+button:focus { outline:none; }
 
 .row{
     margin-top: 5em;
